@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+groq
+sentence-transformers
+pymupdf
+docarray
+transformers
+python-dotenv
+arxiv
+
